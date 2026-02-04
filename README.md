@@ -36,7 +36,7 @@
 
 > "Democratizing artificial intelligence for businesses of all sizes. We believe every company should have access to cutting-edge AI technology that transforms workflows and drives innovation."
 
-**Live Demo:** [Live Demo Link Coming Soon](https://ps-xx.github.io/Aura-AI-LandingPage/)
+**Live Demo:** [Live Demo](https://ps-xx.github.io/Aura-AI-LandingPage/)
 
 ---
 
